@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/cover2.jpg"
+    src="./assets/cover3.png"
     width="100%"
     alt="Asair Adam - Full Stack Developer"
   />
