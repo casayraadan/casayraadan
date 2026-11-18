@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.JPG" width="100%" alt="Asair Adam - Full Stack Developer"/></p>
+  <img src="assets.JPG" width="100%" alt="Asair Adam - Full Stack Developer"/></p>
 <h1 align="center">Hi 👋, I'm Asair Adam Suleiman</h1>
 <h3 align="center">ICT Specialist | Software Developer | Digital Solutions Enthusiast</h3>
 
